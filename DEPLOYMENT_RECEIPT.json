@@ -1,0 +1,14 @@
+{
+  "project": "linus-pauling-ai",
+  "network": "Solana Devnet",
+  "cluster_url": "https://api.devnet.solana.com",
+  "mint_address": "DEcbum4Bt8S2HwNt1pyZp2hA7DP8TGCmJkAKtwT7tzdd",
+  "vault_account": "CYto6wvfUaA5BbrJp5w5p4GL5ZYoge3f29Jb1cq2TEKb",
+  "initial_supply": 1000000,
+  "decimals": 9,
+  "creation_tx": "5tsJ6EeS66ie6YVpqRPhV49YJsrP5TQ83wDkjhqLkeY1EJA4iU2nWHJt96oKDRnZ3tT7rP9FWQZ1RJYUTSJEfssC",
+  "account_tx": "2CaXDiLdnA353aKZpGPuQWYh9byMEoMsQxc2j2MRRUxVRfg9JytGkNBtMp16qN89LRdvXaUKNRANSPAG6goP6Xai",
+  "mint_tx": "jVeXym4wxrkMLMnt9ENytuzXcJ3jVCC9t7B2pa8pu7dYApwcwMSANzt98z5gcqMfeWowEhUtxUsiTWgTcdGCANX",
+  "solana_explorer_mint": "https://explorer.solana.com/address/DEcbum4Bt8S2HwNt1pyZp2hA7DP8TGCmJkAKtwT7tzdd?cluster=devnet",
+  "timestamp": "2026-10-26 16:47:07 UTC"
+}
